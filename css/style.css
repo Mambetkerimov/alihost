@@ -43,6 +43,7 @@ h1, h2, h3, h4, h5, h6, span {
 .logo-title {
 	font-size: 20px;
 	font-weight: 800;
+	color: #000000;
 	text-transform: uppercase;
 	margin-left: 11px;
 	position: relative;
@@ -654,7 +655,6 @@ h1, h2, h3, h4, h5, h6, span {
 
 .footer-links {
 	display: flex;
-	flex-direction: column;
 }
 
 .footer-links-2 {
